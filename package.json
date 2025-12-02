@@ -6,14 +6,10 @@
   "directories": {
     "test": "tests"
   },
-
-
- "scripts": {
- "test": "jest",
- "prettier:check": "prettier --check ." 
-},
-
-
+  "scripts": {
+    "test": "jest",
+    "prettier:check": "prettier --check ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Luciana0610/tallergitci-3223875-lucciana.git"
