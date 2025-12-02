@@ -10,7 +10,6 @@ function agregarItem(texto) {
   li.textContent = texto;
   lista.appendChild(li);
 }
-
 document.getElementById("btn-agregar").addEventListener("click", () => {
   const input = document.getElementById("texto");
   const valor = input.value.trim();
